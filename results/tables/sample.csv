@@ -1,0 +1,17 @@
+variable,choice_code,participants
+age,2,10
+age,3,19
+age,4,21
+gender,1,22
+gender,2,27
+gender,3,1
+edu,1,7
+edu,2,6
+edu,3,22
+edu,4,15
+exp,2,1
+exp,3,6
+exp,4,18
+exp,5,25
+prior_ext,1,15
+prior_ext,2,35

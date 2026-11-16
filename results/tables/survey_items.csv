@@ -1,0 +1,30 @@
+item,variable,n,top_two,middle,bottom_two,top_two_pct
+Bothered when websites ask for personal information,c_bother,50,33,14,3,66.0
+Thinks twice before sharing,c_twice,50,46,3,1,92.0
+Websites collect too much,c_collect,50,38,11,1,76.0
+Understood why information was flagged,u_flag,50,49,1,0,98.0
+Understood why advice differs across websites,u_ctx,50,48,1,1,96.0
+Understood the risk score,u_score,50,37,10,3,74.0
+Advice easy to understand,u_easy,50,46,2,2,92.0
+Explanations helped,u_expl,48,45,3,0,93.8
+Expected: reads typed text,e_read,50,47,1,2,94.0
+Expected: mostly local processing,e_local,50,40,5,5,80.0
+Expected: sends information to external servers,e_ext,50,19,14,17,38.0
+Comfortable: reading text,cf_read,50,37,7,6,74.0
+Comfortable: text sent to backend,cf_backend,50,20,12,18,40.0
+Comfortable: website details and categories sent,cf_meta,49,24,6,19,49.0
+Comfortable overall with data practices,cf_overall,50,30,13,7,60.0
+Access is necessary,a_necessary,50,43,4,3,86.0
+Access is reasonable,a_reasonable,50,30,14,6,60.0
+Accesses more than expected,a_more,50,19,19,12,38.0
+Prefer fewer features for less access,a_fewer,49,25,13,11,51.0
+Interrupted more than liked,b_interrupt,50,7,9,34,14.0
+Too much effort,b_effort,50,8,6,36,16.0
+Number of warnings manageable,b_manage,50,43,5,2,86.0
+Protects privacy without preventing tasks,b_compat,50,38,9,3,76.0
+Risk level influenced following advice,b_riskinfl,50,35,13,2,70.0
+Willing to use,w_use,49,32,6,11,65.3
+Benefit justifies use,w_benefit,50,30,13,7,60.0
+Fits how I browse,w_fit,50,35,8,7,70.0
+Could easily override,ct_override,50,47,3,0,94.0
+Enough control over suggestions,ct_choice,50,43,5,2,86.0

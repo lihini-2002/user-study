@@ -1,0 +1,18 @@
+task,information_flagged,needed,unsure,note
+Social post,Age,N,,Age is not necessary to describe the trip.
+Social post,Health condition,N,,Unrelated to the trip post.
+Social post,Place (city or suburb),Y,,The destination is central to the trip post.
+Social post,Name of a person,Y,,Named companions are part of the requested social post.
+Social post,"Relationship word (wife, girlfriend, daughter, friends)",Y,x,Identifies who accompanied the persona; some posts could omit the relationship.
+Caption request,Place (city or suburb),N,x,"A caption can still be requested without this detail, though location may improve relevance."
+Caption request,Name of a person,N,,Individual names are not necessary to request a caption.
+Caption request,"Relationship word (wife, girlfriend, daughter, friends)",N,x,"A caption can work without relationship labels, though they may shape its tone."
+Health query,Age,Y,,Explicitly required in the task's query template.
+Health query,Health condition,Y,,The condition is the subject of the requested advice.
+Health query,Place (city or suburb),Y,,The query explicitly calls for the suburb.
+Health query,Organisation name,N,,Not required for the health advice request.
+Health query,Name of a person,N,,The persona's name is not needed to give advice.
+Bank-message search,"Bank account details (BSB, account number)",N,x,Specific account identifiers are not needed to explain the message; the instruction to paste it verbatim is debatable.
+Bank-message search,Email address,N,x,The exact address is not needed to interpret the message; verbatim pasting is debatable.
+Bank-message search,Name of a person,N,,The name is incidental to understanding the bank message.
+Bank-message search,Phone number,N,x,The exact number is not needed to interpret the message; verbatim pasting is debatable.

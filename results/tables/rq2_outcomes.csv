@@ -1,0 +1,8 @@
+measure,value,interval_or_note
+Displayed suggestions accepted,286/510 (56.1%),44.2-66.9%
+Displayed suggestions dismissed,12/510 (2.4%),3 participants
+Displayed suggestions left without a decision,212/510 (41.6%),136 unresolved; 62 invalidated; 14 pending
+Accepted among explicit decisions,286/298 (96.0%),90.3-100.0%
+Acceptances made with Apply All,194/286 (67.8%),23 participants
+"Median response time, Apply All (s)",4.5,median of participant medians
+"Median response time, individual accept (s)",9.3,median of participant medians

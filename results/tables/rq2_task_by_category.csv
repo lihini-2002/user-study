@@ -1,0 +1,21 @@
+task,cat,displayed,accepted,dismissed,need,accept_pct
+chat_caption,Location,25,7,1,disputed,28.0
+chat_caption,Personal,59,14,1,incidental,23.7
+chat_caption,Relationship,9,6,0,incidental,66.7
+chat_health,Age,29,18,2,needed,62.1
+chat_health,Health,31,22,1,needed,71.0
+chat_health,Location,23,17,0,disputed,73.9
+chat_health,Organisation,1,1,0,incidental,100.0
+chat_health,Personal,9,3,2,incidental,33.3
+chat_other,Bank Account,4,4,0,incidental,100.0
+chat_other,Email,2,2,0,incidental,100.0
+chat_other,Phone,2,2,0,incidental,100.0
+search_bank,Bank Account,66,42,0,incidental,63.6
+search_bank,Email,33,21,0,incidental,63.6
+search_bank,Personal,5,4,0,incidental,80.0
+search_bank,Phone,33,21,0,incidental,63.6
+social_post,Age,1,1,0,incidental,100.0
+social_post,Health,1,1,0,incidental,100.0
+social_post,Location,43,24,1,needed,55.8
+social_post,Personal,110,57,4,disputed,51.8
+social_post,Relationship,24,19,0,disputed,79.2

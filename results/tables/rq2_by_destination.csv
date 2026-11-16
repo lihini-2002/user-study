@@ -1,0 +1,4 @@
+destination,requesters,accepted_of_displayed,cluster_95_interval,accepted_of_explicit
+social,30,102/179 (57.0%),42.2-72.1%,102/107 (95.3%)
+chatbot,30,96/194 (49.5%),34.5-64.5%,96/103 (93.2%)
+search,32,88/137 (64.2%),48.2-78.7%,88/88 (100.0%)

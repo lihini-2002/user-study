@@ -1,0 +1,18 @@
+task,information_flagged,needed,unsure,note
+Social post,Age,N,,Age does not affect describing the Paris trip.
+Social post,Health condition,N,,A health condition is unrelated to recounting the trip.
+Social post,Place (city or suburb),Y,x,The destination (Paris) identifies the trip; a home suburb would not be needed.
+Social post,Name of a person,N,x,"The companions can be described without identifying their names, though names may add specificity."
+Social post,"Relationship word (wife, girlfriend, daughter, friends)",N,x,Companions can be referenced generically; relationship labels add context but are not strictly required.
+Caption request,Place (city or suburb),Y,x,The Paris destination helps anchor the requested caption; a generic caption may still work.
+Caption request,Name of a person,N,,A caption can be generated without naming any companion.
+Caption request,"Relationship word (wife, girlfriend, daughter, friends)",N,x,The caption can refer to the group without exact relationship labels.
+Health query,Age,Y,x,Age informs age-appropriate health advice and is explicitly part of the requested perspective.
+Health query,Health condition,Y,,The health condition is necessary for condition-specific advice.
+Health query,Place (city or suburb),N,x,"General health guidance does not require the home suburb, although the prompt explicitly mentions it."
+Health query,Organisation name,N,,A particular organisation is not required for general health advice.
+Health query,Name of a person,N,,Health guidance can be provided without the persona's name.
+Bank-message search,"Bank account details (BSB, account number)",N,,A bank warning can be interpreted with the account identifiers redacted.
+Bank-message search,Email address,N,,The email address is not required to understand what the bank message means.
+Bank-message search,Name of a person,N,,The bank message can be explained without a person's name.
+Bank-message search,Phone number,N,,The phone number is not needed to explain the bank message or general next steps.

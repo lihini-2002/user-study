@@ -1,0 +1,4 @@
+comparison,pairs,first_higher,equal,first_lower,wilcoxon_p,holm_p
+Reading text vs text sent to backend,50,26,22,2,1.4341742135981048e-05,4.302522640794314e-05
+Reading text vs website details sent,49,24,20,5,0.00017063001633959283,0.00034126003267918566
+Text sent vs website details sent,49,9,31,9,0.40594423537482893,0.40594423537482893
